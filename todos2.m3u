@@ -1,0 +1,2179 @@
+#EXTM3U
+#EXTINF:33,1001 Noites (720p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+#EXTINF:0,Adesso TV (720p)
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:0,Adrenalina Pura TV
+https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
+#EXTINF:0,AgroBrasil TV (720p) [Not 24/7]
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:0,Alpha Channel (720p)
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+#EXTINF:0,Amazon Sat (1080p)
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:0,Angel TV Portuguese (720p)
+https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
+#EXTINF:0,AWTV (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://awtv.com.br
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:0,Babyfirst
+https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
+#EXTINF:0,BDC TV (576p)
+https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8
+#EXTINF:0,BET Pluto TV
+https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
+#EXTINF:0,BM&C News
+https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
+#EXTINF:0,Boas Novas (1080p)
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:0,Cabo Frio TV (720p)
+https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+#EXTINF:0,Canal 25 Jundiaí (404p) [Not 24/7]
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:0,Canal 38 (720p)
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:0,Canal do Criador (1080p)
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:0,Canal do Inter (720p) [Not 24/7]
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:0,Canal Educação (720p)
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:0,Canal Gov (720p)
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:0,Canal Libras (720p)
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+#EXTINF:0,Canal Ricos (480p)
+https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+#EXTINF:0,Canal Rural (1080p)
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:0,Canal Saúde (720p) [Not 24/7]
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+#EXTINF:0,Catve2 (720p)
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+#EXTINF:0,Catve FM (720p) [Not 24/7]
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+#EXTINF:0,Catve Master TV (720p) [Not 24/7]
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:0,Chroma TV (480p)
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:0,Classique TV (360p)
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:0,COM Brasil (1080p) [Not 24/7]
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:0,Combate Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:0,Comedy Central Pluto TV
+https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
+#EXTINF:0,Comedy Central South Park
+https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
+#EXTINF:0,Conecta+ TV (720p)
+http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
+#EXTINF:0,ConecTV Brasil (720p)
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:0,Conexão TV (720p)
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
+#EXTINF:0,Cultura Pará (480p) [Not 24/7]
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:0,CWB TV (720p)
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+#EXTINF:0,Demais TV (720p)
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:0,Despertar TV (720p)
+https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8
+#EXTINF:0,Elemental Channel (1080p)
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+#EXTINF:0,ElyTV (360p)
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:0,EUTV (720p)
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:0,FailArmy
+https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
+#EXTINF:0,Fala Litoral (480p)
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:0,FIFA+ Portuguese (720p)
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:0,Filmes Suspense
+https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
+#EXTINF:0,Fonte TV (1080p) [Not 24/7]
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:0,Geekdot (720p)
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:0,Ghost TV (712p) [Not 24/7]
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+#EXTINF:0,Gloob (576p)
+http://45.235.0.78/Gloob/playlist.m3u8
+#EXTINF:0,Gospel Cartoon (360p)
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:0,Gospel Movie TV (360p)
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:0,ISTV (720p) [Not 24/7]
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:0,Jovem Pan News (JP News) (1080p) [Not 24/7]
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:0,Kenan & Kel
+https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
+#EXTINF:0,KpopTV Play (576p)
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:0,Kuriakos Kids (1080p)
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:0,Loading (720p)
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:0,MasterChef
+https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
+#EXTINF:0,MKK Web TV (720p) [Not 24/7]
+https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+#EXTINF:0,MTV Biggest Pop
+https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
+#EXTINF:0,MTV Com o Ex
+https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
+#EXTINF:0,MyTime Movie Network Brazil (720p)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0,Naruto
+https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
+#EXTINF:0,Nickelodeon
+http://x1co.com.br:8080/hls/0/stream.m3u8
+#EXTINF:0,Nickelodeon Clássico
+https://jmp2.uk/plu-5f12151794c1800007a8ae63.m3u8
+#EXTINF:0,Nova Era TV (1080p) [Not 24/7]
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:0,Novo Tempo (720p)
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:0,O Encantador de Cães
+https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
+#EXTINF:0,O Reino Infantil
+https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
+#EXTINF:0,Play TV (720p)
+https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
+#EXTINF:0,Plena TV (720p)
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:0,Pluto TV Anime
+https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
+#EXTINF:0,Pluto TV Anime Ação
+https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
+#EXTINF:0,Pluto TV Cine Clássicos
+https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
+#EXTINF:0,Pluto TV Cine Drama
+https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
+#EXTINF:0,Pluto TV Cine Família
+https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
+#EXTINF:0,Pluto TV Cine Romance
+https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
+#EXTINF:0,Pluto TV Cine Sucessos
+https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
+#EXTINF:0,Pluto TV Cine Terror
+https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
+#EXTINF:0,Pluto TV Ficção Científica
+https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
+#EXTINF:0,Pluto TV Filmes Ação
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
+#EXTINF:0,Pluto TV Filmes Nacionais
+https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
+#EXTINF:0,Pluto TV Investigação
+https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
+#EXTINF:0,Pluto TV Junior
+https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
+#EXTINF:0,Pluto TV Karaokê por Stingray
+https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
+#EXTINF:0,Pluto TV Minha Obsessão Favorita
+https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
+#EXTINF:0,Pluto TV Mistérios
+https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
+#EXTINF:0,Pluto TV Natureza
+https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
+#EXTINF:0,Pluto TV Paisagens por Stingray
+https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
+#EXTINF:0,Pluto TV Retrô
+https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
+#EXTINF:0,Pluto TV Shows por Stingray
+https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
+#EXTINF:0,Pluto TV Vida Real
+https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
+#EXTINF:0,Primer TV (1080p)
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:0,RBATV (720p)
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:0,Record News (720p)
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:0,Record TV Belem (720p) [Geo-blocked]
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+#EXTINF:0,Record TV Brasilia (720p) [Geo-blocked]
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+#EXTINF:0,Record TV Goias (720p) [Geo-blocked]
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+#EXTINF:0,Record TV Itapoan (720p) [Geo-blocked]
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+#EXTINF:0,Record TV Rio (720p) [Geo-blocked]
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:0,Record TV RS (720p) [Geo-blocked]
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+#EXTINF:0,Record TV SP (720p) [Geo-blocked]
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:0,RecordTV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:0,RecordTV Interior SP
+http://200.77.176.130:8000/udp/224.0.0.4:49152
+#EXTINF:0,Red Bull TV BR (1080p)
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+#EXTINF:0,Rede CNT Salvador (576i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
+http://168.205.87.198:8555/live/1368/123456/150.m3u8
+#EXTINF:0,Rede Gospel (1080p)
+https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
+#EXTINF:0,Rede Minas (1080p) [Not 24/7]
+https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:0,Rede NGT (1080p)
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:0,Rede RC (720p) [Not 24/7]
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:0,Rede SPTV (360p)
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:0,Rede TV! ES (1080p)
+https://streaming.cloudecast.com/hls/redetves/index.m3u8
+#EXTINF:0,Rede TV! SP (720p) [Not 24/7]
+https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
+#EXTINF:0,RIT TV (1080p)
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:0,Santa Cecilia TV (1080p)
+https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
+#EXTINF:0,SBT Interior (720p)
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:0,Sertão TV (720p)
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:0,SESC TV (1080p)
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8
+#EXTINF:0,SIC TV (720p)
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:0,STZ TV (1080p)
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+#EXTINF:0,Tastemade
+https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
+#EXTINF:0,TCM 10 HD (1080p)
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:0,The Pet Collective
+https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
+#EXTINF:0,Times Brasil (1080p)
+https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
+#EXTINF:0,Tokusato
+https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
+#EXTINF:0,Turma da Mônica
+https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
+#EXTINF:0,TV A Folha (720p)
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:0,TV Aldeia (720p)
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+#EXTINF:0,TV Aliança Catarinense (720p)
+https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+#EXTINF:0,TV Alternativa (410p)
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:0,TV Aparecida (1080p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:0,TV Arapuan (720p)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:0,TV Aratu (720p)
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:0,TV Assembléia Ceará (720p)
+https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
+#EXTINF:0, like Gecko) Chrome/129.0.0.0 Safari/537.36" group-title="Undefined" - TV Bahia (1080i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:0,TV Birigui (640p)
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+#EXTINF:0,TV Brasil (720p)
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:0,TV Brasil Oeste (720p)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:0,TV BRICS Portuguese (1080p)
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:0,TV Brusque (720p)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:0,TV Câmara (1080p)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:0,TV Câmara 2 (1080p) [Not 24/7]
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:0,TV Câmara Salvador (288p) [Not 24/7]
+https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8
+#EXTINF:0,TV Cancao Nova (720p)
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+#EXTINF:0,TV Cidade de Petrópolis (1080p) [Not 24/7]
+https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+#EXTINF:0,TV Cidade Oeste
+https://radios.dataprimer.com.br:5443/LiveApp/streams/psuqNyPC1AW1BcUZ1573443847601.m3u8
+#EXTINF:0,TV Cidade Verde (720p)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:0,TV Cidade Verde Cuiaba
+#EXTVLCOPT:http-referrer=https://www.tvcidadeverde.com.br
+https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+#EXTINF:0,TV Clube (720p)
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:0,TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:0,TV Curuça (360p)
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:0,TV das Artes (360p)
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
+#EXTINF:0,TV Destak (360p)
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:0,TV Diário Macapá (1080p) [Not 24/7]
+https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8
+#EXTINF:0,TV Difusora Leste (1080p)
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+#EXTINF:0,TV Digital Biriguí (640p)
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+#EXTINF:0,TV do Povo (540p)
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:0,TV Empire Magazine (720p)
+https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
+#EXTINF:0,TV Encontro das Aguas
+https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
+#EXTINF:0,TV Evangelizar (480p)
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:0,TV Futuro (1080p)
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:0,TV Gideoes (1080p) [Not 24/7]
+https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+#EXTINF:0,TV Grande Natal (1080p)
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:0,TV Grao Pará (720p)
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+#EXTINF:0,TV Guará (720p) [Not 24/7]
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+#EXTINF:0,TV Interlagos (360p)
+https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8
+#EXTINF:0,TV Liberdade (720p) [Not 24/7]
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
+#EXTINF:0,TV Life America (720p)
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+#EXTINF:0,TV Mackenzie (480p)
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+#EXTINF:0,TV Mais Maricá (1080p)
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:0,TV Maná Brasil (1080p)
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:0,TV Marajoara (720p)
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:0,TV MAX (720p)
+https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
+#EXTINF:0,TV Metropole (720p) [Not 24/7]
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:0,TV Modelo (720p)
+https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u
+#EXTINF:0,TV Padre Cicero (720p)
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+#EXTINF:0,TV Pantanal MS (360p) [Not 24/7]
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:0,TV Paraense (720p)
+https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
+#EXTINF:0,TV Paraná Turismo (720p) [Not 24/7]
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:0,TV Passo Fundo (720p)
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF:0,TV Sandegi (360p)
+https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
+#EXTINF:0,TV São Raimundo (268p)
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+#EXTINF:0,TV Series 1 As Panteras (480p)
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:0,TV Sim Cachoeiro (720p)
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:0,TV Sim Colatina (720p)
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+#EXTINF:0,TV Sim São Mateus (720p)
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:0,TV Sol Comunidade (480p) [Not 24/7]
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:0,TV Sul Bahia (320p)
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+#EXTINF:0,TV Sul de Minas (720p)
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+#EXTINF:0,TV Terceiro Anjo (360p)
+https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+#EXTINF:0,TV Thathi (720p) [Not 24/7]
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+#EXTINF:0,TV UFG (720p) [Not 24/7]
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+#EXTINF:0,TV Universal (480p)
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:0,TV Viçosa (480p)
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:0,TV Vila Real (720p)
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:0,TV Zoom (720p)
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:0,TVC-Rio
+https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+#EXTINF:0,TVCOM DF (360p)
+https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
+#EXTINF:0,TVCOM Maceió (480p)
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+#EXTINF:0,TVE RS (1080p)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0,TVE RS (1080p)
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+#EXTINF:0,TVídeoNews (720p) [Not 24/7]
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:0,TVitapé (720p)
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:0,TVMatic Comedy (720p)
+http://cdn.tvmatic.net/comedy.m3u8
+#EXTINF:0,TVMatic Crafts (720p)
+http://cdn.tvmatic.net/crafts.m3u8
+#EXTINF:0,TVMatic Facebook (720p)
+http://cdn.tvmatic.net/facebook.m3u8
+#EXTINF:0,TVMatic Fight (720p)
+http://cdn.tvmatic.net/fight.m3u8
+#EXTINF:0,TVMatic Funny (720p)
+http://cdn.tvmatic.net/funny.m3u8
+#EXTINF:0,TVMatic TikTok (720p)
+http://cdn.tvmatic.net/tiktok.m3u8
+#EXTINF:0,TVNBN (720p)
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:0,UNISUL TV (720p)
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+#EXTINF:0,UniTV Porto Alegre (480p)
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+#EXTINF:0,VRT Channel (720p)
+https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
+#EXTINF:0,VV8 TV (720p)
+https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
+#EXTINF:0, Canal do Usuário (18/02/2026 - 22h52m)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://outbound-proxy-us-east1.b15-br-cloudfront-net.online/tooncast/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0, SBT Nacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://simulcast.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/indexMobile.m3u8
+#EXTINF:0, Rede Roberto Marinho PE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://live-ber-sp-06-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTA2LTA3LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc3MDI3Nzk2OSwiaWF0IjoxNzcwMjU2MzY5LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6Ijk5OTBhNzdhLWEwYTYtNDg3NC1hNmE3LWRjZGVhN2E4MDJkYiIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tcGUxL3BsYXlsaXN0Lm0zdTgifQ.DQe5zed0J4u_NOUYmYnPn686LXyU-5BGOFhXua7TCltHe750Ss5xxdRNti_jUZhebhmnD67aceF9pfRC-ojgE7muIrVZXmsDiQaMWXPrmfTxz-zCOexx9wdOiMx2WG6KfhvbXcRoCkHPOd8IUpJ7p6C7sMfPg90LMjqzJ0ACcUZDaxa4QlogqTPpv0-P2fLytJsmvu11sLAIPAc2FQOTBztHalSs35OSxdaQW6mVrVN0NCEU0xVcJVm1TkmQv-twkPWhWHTrT_Y8nb2tsgaYD7yRSExowRLFEV7Wz6L-Vmwz-oGu8E70o7IKMynxdbvnYsyWP_vWkA6LpPnyXUds5A/live/f(i=2)/globo-pe1/playlist.m3u8
+#EXTINF:0,TV Conquista - RecordTV MT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+#EXTINF:0, Rede Vida
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+#EXTINF:0, Band Belém 
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:0, RedeTV! Paraná
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:0, RedeTV! Tocantins 
+https://5ad482a77183d.streamlock.net/administrativoredetvto.com.br/administrativoredetvto.com.br/playlist.m3u8
+#EXTINF:0, Record News - TV SIM ES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:0, Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:0, TV Gazeta - TV Cidade
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:0, Rede Família
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
+#EXTINF:0, Canal RBTV - Virtual TV
+https://video02.logicahost.com.br/rbtv/rbtv/playlist.m3u8
+#EXTINF:0, Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:0, Central TV HD
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
+#EXTINF:0, TV Brasil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:0,ISTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+#EXTINF:0, TV Cultura
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:0,Rede Minas HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:0,TVE Bahia HD
+http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
+#EXTINF:0, Geekdot HD
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:0, PlayTV Mais
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
+#EXTINF:0, Esportes Brasília HD
+https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
+#EXTINF:0, RS News Sports
+https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
+#EXTINF:0, Futura - Canal FDR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:0, Master TV
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:0, Rede Mais Família HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
+#EXTINF:0, Sesc TV HD
+https://cloudflare.cdn.spalla.io/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVlZGUxLWMyM2MtNzA3OC04ZjJhLTI1Zjk4MmE5ZmM5MS8iLCJ1aWQiOiI2N2M4YjkzMi01ODUyLTQ2ZDEtOTE1My1mZjBmYTU1MGE0MDQiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc1Njc5NDg1NywiaWF0IjoxNzU2Nzk0ODU3LCJleHAiOjE3NTY4ODEyNTcsImp0aSI6IjY3YzhiOTMyLTU4NTItNDZkMS05MTUzLWZmMGZhNTUwYTQwNCIsImlzcyI6IlNwYWxsYSJ9.fQbKDdajR8RFyCO_jXwZYQWnxGc2uEfSe1y305C964k&uid=67c8b932-5852-46d1-9153-ff0fa550a404&magica=sim
+#EXTINF:0, Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:0, TV A Critica - TV Cristal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
+#EXTINF:0, Canal 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_0ad632a5-72a0-4504-8791-df142f1d39b7.m3u8
+#EXTINF:0, Ideal TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://vod-adaptive-ak.vimeocdn.com/exp=1756364153~acl=%2F89399e1b-6fa9-49e4-84fa-e2a0e7596b9b%2F%2A~hmac=2e503b9ca58765981ef3ae7005e3bac2baf81d1ef30683778c1e34f95a51a7e3/89399e1b-6fa9-49e4-84fa-e2a0e7596b9b/v2/range/prot/cmFuZ2U9MzM3MTY3NC00NDQxNDQy/avf/406bdc15-46f7-4614-9319-b18e190127dd.mp4?pathsig=8c953e4f~A4-MWec5nl5z2QV5lO-kkEmpZ6Wz8U5YrywOdb2mNTQ&r=dXMtd2VzdDE%3D&range=3371674-4441442
+#EXTINF:0, CNT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cloudflare.cdn.spalla.io/live/9ff3c72d-cecc-4df2-96e0-8ff07e08d887/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzlmZjNjNzJkLWNlY2MtNGRmMi05NmUwLThmZjA3ZTA4ZDg4Ny8iLCJ1aWQiOiI2N2M4YjkzMi01ODUyLTQ2ZDEtOTE1My1mZjBmYTU1MGE0MDQiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc1Njc5NDY3OSwiaWF0IjoxNzU2Nzk0Njc5LCJleHAiOjE3NTY4ODEwNzksImp0aSI6IjY3YzhiOTMyLTU4NTItNDZkMS05MTUzLWZmMGZhNTUwYTQwNCIsImlzcyI6IlNwYWxsYSJ9.L60uoH_JlHRuwSi4L5ovH3DCDW6POdX9uZ04AuBdPnQ&uid=67c8b932-5852-46d1-9153-ff0fa550a404&magica=sim
+#EXTINF:0, TV Meio
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:0, Rede UTV 
+https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
+#EXTINF:0, UMA TV
+https://acesso.ecast.site:3011/live/umatvlive.m3u8
+#EXTINF:0, Reviva TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/chunklist_w1951752947.m3u8
+#EXTINF:0, Vivax TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+#EXTINF:0, BSTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
+#EXTINF:0, Adesso TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+#EXTINF:0, Grjngo HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:0, Rede NGT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:0, MiTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:0, RETRO CARTOON SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+#EXTINF:0, Jetix Web
+https://s1.tvr.ovh/jetix/jetix/playlist.m3u8
+#EXTINF:0, Gospel Cartoon SD
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:0, F. Kids Network HD
+https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
+#EXTINF:0, Tooncast
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4917
+#EXTINF:0,TV Max RIO
+https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/chunklist_w777565696.m3u8
+#EXTINF:0,Rede União HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://pushapp.uniaoplay.com.br/hls/stream.m3u8
+#EXTINF:0, Top TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+#EXTINF:0, Interativa TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video09.logicahost.com.br/interativafm/interativafm/playlist.m3u8
+#EXTINF:0, GLN TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
+#EXTINF:0, Multi Canais
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:0, Classique TV - Faroeste
+https://stmv2.painelvideocast.com.br/classiquew/classiquew/playlist.m3u8
+#EXTINF:0, Classique TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:0, Feed 1 - Soul TV
+https://video01.soultv.com.br/soultv/soultv/chunklist_w1992219024.m3u8
+#EXTINF:0, Feed 2 - Pluto TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0, Teste 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
+#EXTINF:0, TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:0, Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:0, Rede Estação HD
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+#EXTINF:0, Rede Século 21 HD
+https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8
+#EXTINF:0, Terraviva HD
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:0, Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:0, Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:0, AgroBrasil TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://live.agrobrasiltv.com.br/memfs/0f1f8f3d-96cb-4792-babe-c2169f30a577.m3u8
+#EXTINF:0, Loading Web
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:0, Otaku Sign TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:0, Canal Start HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv.webtvninjas.com.br/start/start/playlist.m3u8
+#EXTINF:0, Polidoro TV
+https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:0, Locomotion SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:0, Kpop TV Play
+https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
+#EXTINF:0, Xtreme TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+#EXTINF:0, Clone TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv7.voxtvhd.com.br/clouding/clouding/playlist.m3u8
+#EXTINF:0, Kanade TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://backend.energeek.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB
+#EXTINF:0, PoopTV
+https://stream.ichibantv.com:3522/hybrid/play.m3u8
+#EXTINF:0, Amazon Sat HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:0, Demais TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://Stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:0, TV Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:0, Rede Mundo TV HD
+https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
+#EXTINF:0, AWTV HD
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:0, Caravana Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+#EXTINF:0, Astral TV
+https://isaocorp.cloudecast.com/astraltv/index.fmp4.m3u8
+#EXTINF:0, TV NBT
+https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
+#EXTINF:0, BR8TV
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
+#EXTINF:0, Ypê TV
+https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
+#EXTINF:0, TV Gazin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://caikron.com.br:19360/floripa/canal1.m3u8
+#EXTINF:0, Tenda TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
+#EXTINF:0,Nihon Web TV
+https://stream.nihonwebtv.com:3778/stream/play.m3u8
+#EXTINF:0,CONECT X
+https://video10.logicahost.com.br/jrtv/jrtv/playlist.m3u8
+#EXTINF:0,TV Metrópolis HD
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w174397906.m3u8
+#EXTINF:0, RCTV Brasil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://tv03.zas.media:1936/mbc/mbc/playlist.m3u8
+#EXTINF:0, Canal Teste 5
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
+#EXTINF:0,TV Câmara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:0, TV Assembleia de Minas Gerais
+https://streaming.almg.gov.br/live/tvalmg.m3u8
+#EXTINF:0,TV Assembléia Ceará
+https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
+#EXTINF:0,Tv Assembléia MT HD
+https://streaming.al.mt.gov.br/test/index.m3u8
+#EXTINF:0, Canal Saúde 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+#EXTINF:0, Canal Libras
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+#EXTINF:0, TV Comunitária HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:0, Canal Gov HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+#EXTINF:0,TV Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:0, Rede Cultura HD
+https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:0, TV Brasil Central HD
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+#EXTINF:0, TV Nova Nordeste HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://acesso.ecast.site:3675/live/novatvlive.m3u8
+#EXTINF:0, TV Nova Educação HD
+https://live.comets.com.br/tvnovanordeste_222/tracks-v1a1/mono.m3u8
+#EXTINF:0, Record News SC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://caikron.com.br:19360/floripa/floripa.m3u8
+#EXTINF:0, Band WEB HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+#EXTINF:0,RedeTV! Espirito Santo
+https://acesso.ecast.site:3186/live/esflixlive.m3u8
+#EXTINF:0, BA: TV Aratu HD
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:0,GO: TV Sucesso
+https://live-stream.gsnoticias.net.br/live/live-goiania_720.flv
+#EXTINF:0, BA: CNT Salvador HD
+https://cloudflare.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxNDcxODU2MCwiaWF0IjoxNzE0MTEzNzYwLCJpZCI6IjAxODk3ZjkzLTExZWEtNzEwOS1iMGU1LTk1ZTQ4NDU2YmE4MCIsIm5iZiI6MTcxNDExMTk2MCwicmF1IjpbXSwidWlkIjoiMDE4OTdmOTMtMTFlYS03MTA5LWIwZTUtOTVlNDg0NTZiYTgwIiwidXJpX3N1YiI6Ii9jMGZiYWIxZC04YWQ2LTRiNmMtYjA1My1iMzBhODliMDIxMTAvIn0.Wx46uX9V0uURXVgU-Pmm5LJwVoc-r8dziAcqgyHa1E0&uid=01897f93-11ea-7109-b0e5-95e48456ba80&
+#EXTINF:0, MA: TV Difusora
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+#EXTINF:0, MA: TV Alternativa HD - TV MEIO
+https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w233023639.m3u8
+#EXTINF:0, MG: TV Paranaiba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://app.paranaibaplay.com.br/mobile/tv/index.m3u8
+#EXTINF:0, MT: TV Amplitude Juína 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:0, MT: TV BRASIL OESTE HD
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:0, MT: TV Várzea Grande HD
+https://5ad482a77183d.streamlock.net/portalecovalegmail.com/portalecovalegmail.com/playlist.m3u8
+#EXTINF:0, MT: TV Amplitude Juara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:0, PA: TV Gazeta PA HD
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+#EXTINF:0, PA: SBT/Bem TV
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w966754397.m3u8
+#EXTINF:0, PA: TV Guajará
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w29213761.m3u8
+#EXTINF:0, PA: TV Manajoara HD
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:0, PA: Rede Meio Norte -  TV One HD
+https://video02.logicahost.com.br/tvone/tvone/chunklist_w2006341608.m3u8
+#EXTINF:0, PB: TV Arapuan HD
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:0,PE: TV Jornal Interior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://ythls.armelin.one/channel/UCQD_Fq8NZXbHz9LI8Fa1Q9A.m3u8
+#EXTINF:0,PE: TV Jornal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://d3rhmbr9yq9ljg.cloudfront.net/out/v1/4dab2f11ddef44f1ad6e39df6f31d67b/index.mpd
+#EXTINF:0, PE: TV Universitária Recife HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+http://150.161.93.220/hls/index.m3u8
+#EXTINF:0, PI: TV Antena 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/playlist.m3u8
+#EXTINF:0,PI: TV Cidade Verde
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1098979875.m3u8
+#EXTINF:0,PI: TV Cidade Verde Picos
+https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8
+#EXTINF:0, PI: TV O Dia HD
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1859406571.m3u8
+#EXTINF:0, PR: CNT Paraná HD
+https://cloudflare.cdn.spalla.io/live/ee4d3ab8-a162-42d8-a4d0-e4ae03f9224a/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxNDcxODQ3OSwiaWF0IjoxNzE0MTEzNjc5LCJpZCI6IjAxODk3ZjkzLTExZWEtNzEwOS1iMGU1LTk1ZTQ4NDU2YmE4MCIsIm5iZiI6MTcxNDExMTg3OSwicmF1IjpbXSwidWlkIjoiMDE4OTdmOTMtMTFlYS03MTA5LWIwZTUtOTVlNDg0NTZiYTgwIiwidXJpX3N1YiI6Ii9lZTRkM2FiOC1hMTYyLTQyZDgtYTRkMC1lNGFlMDNmOTIyNGEvIn0.w6iXCjvr-3QeP2y93INz6JjuOGjU1eUENn5TKsyFoPI&uid=01897f93-11ea-7109-b0e5-95e48456ba80&
+#EXTINF:0,PR: Rede Massa HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://d10tspkqgju994.cloudfront.net/out/v1/7d01acad7c474d559689a421c90168db/index.mpd
+#EXTINF:0, PR: TV Tarobá
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-8389/LVW8389_Z2OndyxPW6/chunklist.m3u8
+#EXTINF:0, RJ: TV Cidade HD - Canal RBTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stream.ichibantv.com:3874/hybrid/play.m3u8
+#EXTINF:0, RN: TV Tropical HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
+#EXTINF:0,RN: TV União de Natal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
+#EXTINF:0, RN: TV Futuro HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:0, RO: Sic TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?token=1488818561245878300
+#EXTINF:0, RO: TV do Povo - Rede Meio Norte 
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:0, RS: TVE
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0, RS: TV Pampa HD
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:0, SC: NDTV Criciúma 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://caikron.com.br:19360/floripa/floripa.m3u8
+#EXTINF:0, SC: RBA TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://tv02.zas.media:1936/rbatv/rbatv/chunklist_w1775733882.m3u8
+#EXTINF:0, SP: SBT Interior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:0, SP: Rede Metrópole - Rede Meio Norte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://acesso.ecast.site:3456/stream/play.m3u8
+#EXTINF:0, Rede Gospel HD 
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:0, Boas Novas Belém
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
+#EXTINF:0, Canção Nova Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/chunklist_w83457119.m3u8
+#EXTINF:0, TVCI HD
+https://5e837408ea907.streamlock.net:1936/tvci/tvci/playlist.m3u8
+#EXTINF:0, Vitrine Esportiva
+https://cdn.jmvstream.com/w/AVJ-12930/playlist/playlist.m3u8
+#EXTINF:0, RS News Sports 2
+https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
+#EXTINF:0, RS News Sports 3
+https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/playlist.m3u8
+#EXTINF:0, RS News Sports 4
+https://59f1cbe63db89.streamlock.net:1443/rsnews04/_definst_/rsnews04/playlist.m3u8
+#EXTINF:0, RS News Sports 5
+https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/playlist.m3u8
+#EXTINF:0, Paulistão
+https://ythls.armelin.one/channel/UCaf4uhI8ItLyM_6kZ5I5Zdw.m3u8
+#EXTINF:0, Futebol Paulista
+https://ythls.armelin.one/channel/UCBFcL3nMWFcNnoWOEtacp1w.m3u8
+#EXTINF:0, CazéTV
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+#EXTINF:0, Canal GOAT
+https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
+#EXTINF:0, TV FPF
+https://ythls.armelin.one/channel/UCf32_L5DB4JHsLhmqpdw3jw.m3u8
+#EXTINF:0, Red Bull TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0, SIC Internacional
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:0, RTP Internacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+#EXTINF:0, TVE 24h
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_576.m3u8
+#EXTINF:0, Faro TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_3.m3u8
+#EXTINF:0, Canal Once HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:0, DW HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
+#EXTINF:0, Freedom HD
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:0, RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+#EXTINF:0, NHK WORLD HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
+#EXTINF:0,Rádio Jornal Caruaru 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://player-ne10-radiojornal-caruaru-audio-web.stream.uol.com.br/live/radiojornalcaruaruaudio.m3u8
+#EXTINF:0, Mix Belém HD
+https://streaming03.zas.media:1936/mixbelem/mixbelem/playlist.m3u8
+#EXTINF:0, Rádio Cultura do Nordeste
+https://ythls.armelin.one/channel/UClo4dVEnSq8sU7mY9YbsyJw.m3u8
+#EXTINF:0,Rádio Tupi FM
+https://ythls.armelin.one/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
+#EXTINF:0,Rádio Itatiaia
+https://ythls.armelin.one/channel/UC9T0ZAarQHL4cJGFzORVsFg.m3u8
+#EXTINF:0,Rádio Clube Fortaleza AM
+https://ythls.armelin.one/channel/UC5DzzKYARkStu98sWyCI6zg.m3u8
+#EXTINF:0,Rádio Transamérica Esportes
+https://ythls.armelin.one/channel/UC7COFHIM1-Osm9Sm0qIz-xQ.m3u8
+#EXTINF:0, Super Manajoara HD
+https://tv02.zas.media:1936/supermarajoara/supermarajoara/chunklist_w1514293823.m3u8
+#EXTINF:0, Rede Clube FM 
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
+#EXTINF:0, JC FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://d1rkdnnqmg7q8z.cloudfront.net/out/v1/e6bb851f89aa42bf8fff9eb480ba667d/index.mpd
+#EXTINF:0, Rádio Olinda FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://5a57bda70564a.streamlock.net/radioolinda/radioolinda.sdp/chunklist_w1548909010.m3u8
+#EXTINF:0, Rádio Cidade FM
+https://video01.kshost.com.br:4443/fabio2861/fabio2861/playlist.m3u8
+#EXTINF:0, Rádio Clube Ararense
+https://virtues.es:1936/clubeararense/clubeararense/chunklist_w1257888935.m3u8
+#EXTINF:0, FM O Dia Rio HD
+https://cdn.livespanel.com/live/fmodia/playlist.m3u8
+#EXTINF:0, JK FM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8
+#EXTINF:0, Catve FM HD
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+#EXTINF:0, Antena 1 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://21qcxjbzwr.singularcdn.net.br/antena1/ngrp:live_all/playlist.m3u8
+#EXTINF:0,Rádio Massa FM
+https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
+#EXTINF:0, Rádio Sociedade
+https://painel.sintonizar.tv.br:1936/sociedadevideo/sociedadevideo/chunklist_w232524436.m3u8
+#EXTINF:0,Radio Cidade Verde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv1.transmissaodigital.com/cidadeverde2/cidadeverde2/chunklist_w890656368.m3u8
+#EXTINF:0,Radio CV Mais
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://59e4b6c1beddc.streamlock.net/cidadeverde2021/cidadeverde2021/chunklist_w1702912365.m3u8
+#EXTINF:0, Rádio Minas FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-8064/LVW8064_mRt4RUB3CL/chunklist.m3u8
+#EXTINF:0, Rádio Sertaneja
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-8063/LVW8063_wasjsoUgqw/chunklist.m3u8
+#EXTINF:0, Rádio Positiva FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video02.logicahost.com.br/positivafm/positivafm/playlist.m3u8
+#EXTINF:0, Rádio Cultura Pará
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w1230197756.m3u8
+#EXTINF:0, CBN São Paulo HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE3NDQ2MzMwMjQsImlhdCI6MTc0NDU0NjYyNCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiIiLCJwYXRoIjoiL251L2YoYk1pbj0zMTM5ODQsZHZyPTEyMCkvY2Juc3AyNGhhL3BsYXlsaXN0Lm0zdTgifQ.O3uHI1R1xivEm_Y6n2wyISrR-j5bLTn_HKgRGYctl1P8lhNdslPBdrsA29XowRgzbeqqdekhNmgi0SuyKDEefpXI7XZGKghYWjKyKqVeyGM8VgKGpk2mOYEirQL5QzFWbAGlvBFWbgosCeLw7-qeduPSpwnTL-PnQei2x6sNgc6wcrWeR8Fz2Kcpw_YAjG05dby8bC7BdDgtPPa__H6ZdIN1IWz5hnX8MSPPWWTNcIcYtfUH8suDhucpM12Y1rwdUw72hBB6WLnelq0A9C7ox1Ky1DJN24jQaW_qyKYvxDFJMXAO3mWJEmyoW9pab_tPnA-bVPz-Qj_tcSM27p9HUA/nu/f(bMin=313984,dvr=120)/cbnsp24ha/playlist.m3u8
+#EXTINF:0, CBN Recife HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video05.logicahost.com.br/tvasabranca/tvasabranca/playlist.m3u8
+#EXTINF:0, CBN Campinas HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://streaming.empresaspioneiras.com.br/cbncampinas/stream.m3u8
+#EXTINF:0,Rádio Aparecida
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-10637/LVW10637_hPQesYooeL/chunklist.m3u8
+#EXTINF:0,Band FM Sorocaba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn-mirtes787.ciclano.io:1443/mirtes787/mirtes787/playlist.m3u8
+#EXTINF:0,Band FM Pouso Alegre
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv1.transmissaodigital.com/bandpousoalegre/bandpousoalegre/playlist.m3u8
+#EXTINF:0,Band FM Campinas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://srv1.zcast.com.br/bandfmcampinas/bandfmcampinas/playlist.m3u8
+#EXTINF:0,Nativa Campinas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://srv1.zcast.com.br/nativafmcampinas/nativafmcampinas/playlist.m3u8
+#EXTINF:0,Jovem Pam FM Digital
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://d233lioynu5inr.cloudfront.net/out/v1/c45e4e4af26a4d59b5d166c2a9ac2bbc/index.m3u8
+#EXTINF:0,Rádio Cultura Brasil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://player-culturaam.stream.uol.com.br/live/culturaam.m3u8
+#EXTINF:0,89 FM A Rádio Rock
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8igtlYU8dfBa92nZpm-VlojN3kDIBruobNma11w-Q_V)/dm/3/x7wjrui/s/live-1.m3u8#cell=lnyc
+#EXTINF:0,Rádio Clube Recife AM
+https://radio.saopaulo01.com.br/8018/stream?1625627194922
+#EXTINF:0,Rádio Metró
+https://cast.animu.com.br:5010/
+#EXTINF:0, Rádio JHero
+https:%5C%5Cstm1.radiojhero.com:18008%5C
+#EXTINF:0,Rádio Tupi FM
+https://8923.brasilstream.com.br/stream?nocache=32711111
+#EXTINF:0,Rádio Clube Fortaleza AM
+https://r10.ciclano.io:15075/stream?1651714823719
+#EXTINF:0,AM" radio="true" tvg-logo="https://www.guiademidia.com.br/imagens/radios/pe/radio-universitaria-fm-recife.png" group-title="Canais de Áudio"  - Rádio Universitaria Recife FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+http://150.161.93.221/hls/stream/index.m3u8
+#EXTINF:0,Rádio Rural FM
+http://cast2.youngtech.radio.br:8120/radio
+#EXTINF:0,Rádio MEC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://radiomec-stream.ebc.com.br/ebc/radiomec/chunks.m3u8
+#EXTINF:0,Rádio Nacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://radionacionalamazonia-stream.ebc.com.br/ebc/radionacionalamazonia/chunks.m3u8
+#EXTINF:0,PR: Rede Massa HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://d10tspkqgju994.cloudfront.net/out/v1/7d01acad7c474d559689a421c90168db/index.mpd
+#EXTINF:0, Tooncast SD
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
+#EXTINF:35,1001 Noites (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+#EXTINF:0,Adesso TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:0,Adrenalina Pura TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
+#EXTINF:0,AgroBrasil TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:0,Alpha Channel (720p)
+#EXTVLCOPT:network-caching=1000
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+#EXTINF:0,Amazon Sat (1080p)
+#EXTVLCOPT:network-caching=1000
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:0,Angel TV Portuguese (720p)
+#EXTVLCOPT:network-caching=1000
+https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
+#EXTINF:0,AWTV (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://awtv.com.br
+#EXTVLCOPT:network-caching=1000
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:0,Babyfirst
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
+#EXTINF:0,BDC TV (576p)
+#EXTVLCOPT:network-caching=1000
+https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8
+#EXTINF:0,BET Pluto TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
+#EXTINF:0,BM&C News
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
+#EXTINF:0,Boas Novas (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:0,Cabo Frio TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+#EXTINF:0,Canal 25 Jundiaí (404p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:0,Canal 38 (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:0,Canal do Criador (1080p)
+#EXTVLCOPT:network-caching=1000
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:0,Canal do Inter (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:0,Canal Educação (720p)
+#EXTVLCOPT:network-caching=1000
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:0,Canal Gov (720p)
+#EXTVLCOPT:network-caching=1000
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:0,Canal Libras (720p)
+#EXTVLCOPT:network-caching=1000
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+#EXTINF:0,Canal Ricos (480p)
+#EXTVLCOPT:network-caching=1000
+https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+#EXTINF:0,Canal Rural (1080p)
+#EXTVLCOPT:network-caching=1000
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:0,Canal Saúde (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+#EXTINF:0,Catve2 (720p)
+#EXTVLCOPT:network-caching=1000
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+#EXTINF:0,Catve FM (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+#EXTINF:0,Catve Master TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:0,Chroma TV (480p)
+#EXTVLCOPT:network-caching=1000
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:0,Classique TV (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:0,COM Brasil (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:0,Combate Global
+#EXTVLCOPT:network-caching=1000
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:0,Comedy Central Pluto TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
+#EXTINF:0,Comedy Central South Park
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
+#EXTINF:0,Conecta+ TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
+#EXTINF:0,ConecTV Brasil (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:0,Conexão TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
+#EXTINF:0,Cultura Pará (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:0,CWB TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+#EXTINF:0,Demais TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:0,Despertar TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.live.br1.jmvstream.com/webtv/pejexypz/playlist/playlist.m3u8
+#EXTINF:0,Elemental Channel (1080p)
+#EXTVLCOPT:network-caching=1000
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+#EXTINF:0,ElyTV (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:0,EUTV (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:0,FailArmy
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
+#EXTINF:0,Fala Litoral (480p)
+#EXTVLCOPT:network-caching=1000
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:0,FIFA+ Portuguese (720p)
+#EXTVLCOPT:network-caching=1000
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:0,Filmes Suspense
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
+#EXTINF:0,Fonte TV (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:0,Geekdot (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:0,Ghost TV (712p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+#EXTINF:0,Gloob (576p)
+#EXTVLCOPT:network-caching=1000
+http://45.235.0.78/Gloob/playlist.m3u8
+#EXTINF:0,Gospel Cartoon (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:0,Gospel Movie TV (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:0,ISTV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:0,Jovem Pan News (JP News) (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:0,Kenan & Kel
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
+#EXTINF:0,KpopTV Play (576p)
+#EXTVLCOPT:network-caching=1000
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:0,Kuriakos Kids (1080p)
+#EXTVLCOPT:network-caching=1000
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:0,Loading (720p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:0,MasterChef
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
+#EXTINF:0,MKK Web TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+#EXTINF:0,MTV Biggest Pop
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
+#EXTINF:0,MTV Com o Ex
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
+#EXTINF:0,MyTime Movie Network Brazil (720p)
+#EXTVLCOPT:network-caching=1000
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0,Naruto
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://x1co.com.br:8080/hls/0/stream.m3u8
+#EXTINF:0,Nickelodeon Clássico
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f12151794c1800007a8ae63.m3u8
+#EXTINF:0,Nova Era TV (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:0,Novo Tempo (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:0,O Encantador de Cães
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
+#EXTINF:0,O Reino Infantil
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
+#EXTINF:0,Play TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
+#EXTINF:0,Plena TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:0,Pluto TV Anime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
+#EXTINF:0,Pluto TV Anime Ação
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
+#EXTINF:0,Pluto TV Cine Clássicos
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
+#EXTINF:0,Pluto TV Cine Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
+#EXTINF:0,Pluto TV Cine Família
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
+#EXTINF:0,Pluto TV Cine Romance
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
+#EXTINF:0,Pluto TV Cine Sucessos
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
+#EXTINF:0,Pluto TV Cine Terror
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
+#EXTINF:0,Pluto TV Ficção Científica
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
+#EXTINF:0,Pluto TV Filmes Ação
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
+#EXTINF:0,Pluto TV Filmes Nacionais
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
+#EXTINF:0,Pluto TV Investigação
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
+#EXTINF:0,Pluto TV Junior
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
+#EXTINF:0,Pluto TV Karaokê por Stingray
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
+#EXTINF:0,Pluto TV Minha Obsessão Favorita
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
+#EXTINF:0,Pluto TV Mistérios
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
+#EXTINF:0,Pluto TV Natureza
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
+#EXTINF:0,Pluto TV Paisagens por Stingray
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
+#EXTINF:0,Pluto TV Retrô
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
+#EXTINF:0,Pluto TV Shows por Stingray
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
+#EXTINF:0,Pluto TV Vida Real
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
+#EXTINF:0,Primer TV (1080p)
+#EXTVLCOPT:network-caching=1000
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:0,RBATV (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:0,Record News (720p)
+#EXTVLCOPT:network-caching=1000
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:0,Record TV Belem (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+#EXTINF:0,Record TV Brasilia (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+#EXTINF:0,Record TV Goias (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+#EXTINF:0,Record TV Itapoan (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+#EXTINF:0,Record TV Rio (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:0,Record TV RS (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+#EXTINF:0,Record TV SP (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:0,RecordTV
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:0,RecordTV Interior SP
+#EXTVLCOPT:network-caching=1000
+http://200.77.176.130:8000/udp/224.0.0.4:49152
+#EXTINF:0,Red Bull TV BR (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+#EXTINF:0,Rede CNT Salvador (576i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0
+#EXTVLCOPT:network-caching=1000
+http://168.205.87.198:8555/live/1368/123456/150.m3u8
+#EXTINF:0,Rede Gospel (1080p)
+#EXTVLCOPT:network-caching=1000
+https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
+#EXTINF:0,Rede Minas (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
+#EXTINF:0,Rede NGT (1080p)
+#EXTVLCOPT:network-caching=1000
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:0,Rede RC (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:0,Rede SPTV (360p)
+#EXTVLCOPT:network-caching=1000
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:0,Rede TV! ES (1080p)
+#EXTVLCOPT:network-caching=1000
+https://streaming.cloudecast.com/hls/redetves/index.m3u8
+#EXTINF:0,Rede TV! SP (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
+#EXTINF:0,RIT TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:0,Santa Cecilia TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
+#EXTINF:0,SBT Interior (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:0,Sertão TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:0,SESC TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8
+#EXTINF:0,SIC TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:0,STZ TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+#EXTINF:0,Tastemade
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
+#EXTINF:0,TCM 10 HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:0,The Pet Collective
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
+#EXTINF:0,Times Brasil (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
+#EXTINF:0,Tokusato
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
+#EXTINF:0,Turma da Mônica
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
+#EXTINF:0,TV A Folha (720p)
+#EXTVLCOPT:network-caching=1000
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:0,TV Aldeia (720p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+#EXTINF:0,TV Aliança Catarinense (720p)
+#EXTVLCOPT:network-caching=1000
+https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+#EXTINF:0,TV Alternativa (410p)
+#EXTVLCOPT:network-caching=1000
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:0,TV Aparecida (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:0,TV Arapuan (720p)
+#EXTVLCOPT:network-caching=1000
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:0,TV Aratu (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:0,TV Assembléia Ceará (720p)
+#EXTVLCOPT:network-caching=1000
+https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
+#EXTINF:0, like Gecko) Chrome/129.0.0.0 Safari/537.36" group-title="Undefined" - TV Bahia (1080i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:0,TV Birigui (640p)
+#EXTVLCOPT:network-caching=1000
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+#EXTINF:0,TV Brasil (720p)
+#EXTVLCOPT:network-caching=1000
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:0,TV Brasil Oeste (720p)
+#EXTVLCOPT:network-caching=1000
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:0,TV BRICS Portuguese (1080p)
+#EXTVLCOPT:network-caching=1000
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:0,TV Brusque (720p)
+#EXTVLCOPT:network-caching=1000
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:0,TV Câmara (1080p)
+#EXTVLCOPT:network-caching=1000
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:0,TV Câmara 2 (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:0,TV Câmara Salvador (288p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8
+#EXTINF:0,TV Cancao Nova (720p)
+#EXTVLCOPT:network-caching=1000
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+#EXTINF:0,TV Cidade de Petrópolis (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+#EXTINF:0,TV Cidade Oeste
+#EXTVLCOPT:network-caching=1000
+https://radios.dataprimer.com.br:5443/LiveApp/streams/psuqNyPC1AW1BcUZ1573443847601.m3u8
+#EXTINF:0,TV Cidade Verde (720p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:0,TV Cidade Verde Cuiaba
+#EXTVLCOPT:http-referrer=https://www.tvcidadeverde.com.br
+#EXTVLCOPT:network-caching=1000
+https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
+#EXTINF:0,TV Clube (720p)
+#EXTVLCOPT:network-caching=1000
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:0,TV Cultura
+#EXTVLCOPT:network-caching=1000
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:0,TV Curuça (360p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:0,TV das Artes (360p)
+#EXTVLCOPT:network-caching=1000
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
+#EXTINF:0,TV Destak (360p)
+#EXTVLCOPT:network-caching=1000
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:0,TV Diário Macapá (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8
+#EXTINF:0,TV Difusora Leste (1080p)
+#EXTVLCOPT:network-caching=1000
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+#EXTINF:0,TV Digital Biriguí (640p)
+#EXTVLCOPT:network-caching=1000
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+#EXTINF:0,TV do Povo (540p)
+#EXTVLCOPT:network-caching=1000
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:0,TV Empire Magazine (720p)
+#EXTVLCOPT:network-caching=1000
+https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
+#EXTINF:0,TV Encontro das Aguas
+#EXTVLCOPT:network-caching=1000
+https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
+#EXTINF:0,TV Evangelizar (480p)
+#EXTVLCOPT:network-caching=1000
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:0,TV Futuro (1080p)
+#EXTVLCOPT:network-caching=1000
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:0,TV Gideoes (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+#EXTINF:0,TV Grande Natal (1080p)
+#EXTVLCOPT:network-caching=1000
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:0,TV Grao Pará (720p)
+#EXTVLCOPT:network-caching=1000
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+#EXTINF:0,TV Guará (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+#EXTINF:0,TV Interlagos (360p)
+#EXTVLCOPT:network-caching=1000
+https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8
+#EXTINF:0,TV Liberdade (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
+#EXTINF:0,TV Life America (720p)
+#EXTVLCOPT:network-caching=1000
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+#EXTINF:0,TV Mackenzie (480p)
+#EXTVLCOPT:network-caching=1000
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+#EXTINF:0,TV Mais Maricá (1080p)
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:0,TV Maná Brasil (1080p)
+#EXTVLCOPT:network-caching=1000
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:0,TV Marajoara (720p)
+#EXTVLCOPT:network-caching=1000
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:0,TV MAX (720p)
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
+#EXTINF:0,TV Metropole (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:0,TV Modelo (720p)
+#EXTVLCOPT:network-caching=1000
+https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u
+#EXTINF:0,TV Padre Cicero (720p)
+#EXTVLCOPT:network-caching=1000
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+#EXTINF:0,TV Pantanal MS (360p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:0,TV Paraense (720p)
+#EXTVLCOPT:network-caching=1000
+https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
+#EXTINF:0,TV Paraná Turismo (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:0,TV Passo Fundo (720p)
+#EXTVLCOPT:network-caching=1000
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF:0,TV Sandegi (360p)
+#EXTVLCOPT:network-caching=1000
+https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
+#EXTINF:0,TV São Raimundo (268p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+#EXTINF:0,TV Series 1 As Panteras (480p)
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:0,TV Sim Cachoeiro (720p)
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:0,TV Sim Colatina (720p)
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+#EXTINF:0,TV Sim São Mateus (720p)
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:0,TV Sol Comunidade (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:0,TV Sul Bahia (320p)
+#EXTVLCOPT:network-caching=1000
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+#EXTINF:0,TV Sul de Minas (720p)
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+#EXTINF:0,TV Terceiro Anjo (360p)
+#EXTVLCOPT:network-caching=1000
+https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+#EXTINF:0,TV Thathi (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+#EXTINF:0,TV UFG (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+#EXTINF:0,TV Universal (480p)
+#EXTVLCOPT:network-caching=1000
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:0,TV Viçosa (480p)
+#EXTVLCOPT:network-caching=1000
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:0,TV Vila Real (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:0,TV Zoom (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:0,TVC-Rio
+#EXTVLCOPT:network-caching=1000
+https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+#EXTINF:0,TVCOM DF (360p)
+#EXTVLCOPT:network-caching=1000
+https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
+#EXTINF:0,TVCOM Maceió (480p)
+#EXTVLCOPT:network-caching=1000
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+#EXTINF:0,TVE RS (1080p)
+#EXTVLCOPT:network-caching=1000
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0,TVE RS (1080p)
+#EXTVLCOPT:network-caching=1000
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+#EXTINF:0,TVídeoNews (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:0,TVitapé (720p)
+#EXTVLCOPT:network-caching=1000
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:0,TVMatic Comedy (720p)
+#EXTVLCOPT:network-caching=1000
+http://cdn.tvmatic.net/comedy.m3u8
+#EXTINF:0,TVMatic Crafts (720p)
+#EXTVLCOPT:network-caching=1000
+http://cdn.tvmatic.net/crafts.m3u8
+#EXTINF:0,TVMatic Facebook (720p)
+#EXTVLCOPT:network-caching=1000
+http://cdn.tvmatic.net/facebook.m3u8
+#EXTINF:0,TVMatic Fight (720p)
+#EXTVLCOPT:network-caching=1000
+http://cdn.tvmatic.net/fight.m3u8
+#EXTINF:0,TVMatic Funny (720p)
+#EXTVLCOPT:network-caching=1000
+http://cdn.tvmatic.net/funny.m3u8
+#EXTINF:0,TVMatic TikTok (720p)
+#EXTVLCOPT:network-caching=1000
+http://cdn.tvmatic.net/tiktok.m3u8
+#EXTINF:0,TVNBN (720p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:0,UNISUL TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+#EXTINF:0,UniTV Porto Alegre (480p)
+#EXTVLCOPT:network-caching=1000
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+#EXTINF:0,VRT Channel (720p)
+#EXTVLCOPT:network-caching=1000
+https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
+#EXTINF:0,VV8 TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
+#EXTINF:0, Canal do Usuário (18/02/2026 - 22h52m)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://outbound-proxy-us-east1.b15-br-cloudfront-net.online/tooncast/tracks-v1a1/mono.ts.m3u8
+#EXTINF:126, SBT Nacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://simulcast.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/indexMobile.m3u8
+#EXTINF:0, Rede Roberto Marinho PE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://live-ber-sp-06-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTA2LTA3LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc3MDI3Nzk2OSwiaWF0IjoxNzcwMjU2MzY5LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6Ijk5OTBhNzdhLWEwYTYtNDg3NC1hNmE3LWRjZGVhN2E4MDJkYiIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tcGUxL3BsYXlsaXN0Lm0zdTgifQ.DQe5zed0J4u_NOUYmYnPn686LXyU-5BGOFhXua7TCltHe750Ss5xxdRNti_jUZhebhmnD67aceF9pfRC-ojgE7muIrVZXmsDiQaMWXPrmfTxz-zCOexx9wdOiMx2WG6KfhvbXcRoCkHPOd8IUpJ7p6C7sMfPg90LMjqzJ0ACcUZDaxa4QlogqTPpv0-P2fLytJsmvu11sLAIPAc2FQOTBztHalSs35OSxdaQW6mVrVN0NCEU0xVcJVm1TkmQv-twkPWhWHTrT_Y8nb2tsgaYD7yRSExowRLFEV7Wz6L-Vmwz-oGu8E70o7IKMynxdbvnYsyWP_vWkA6LpPnyXUds5A/live/f(i=2)/globo-pe1/playlist.m3u8
+#EXTINF:0,TV Conquista - RecordTV MT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+#EXTINF:0, Rede Vida
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+#EXTINF:0, Band Belém 
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:0, RedeTV! Paraná
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:0, RedeTV! Tocantins 
+https://5ad482a77183d.streamlock.net/administrativoredetvto.com.br/administrativoredetvto.com.br/playlist.m3u8
+#EXTINF:0, Record News - TV SIM ES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:0, Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:0, TV Gazeta - TV Cidade
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:0, Rede Família
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
+#EXTINF:0, Canal RBTV - Virtual TV
+https://video02.logicahost.com.br/rbtv/rbtv/playlist.m3u8
+#EXTINF:0, Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:0, Central TV HD
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
+#EXTINF:0, TV Brasil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:0,ISTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+#EXTINF:0, TV Cultura
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:0,Rede Minas HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:0,TVE Bahia HD
+http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
+#EXTINF:0, Geekdot HD
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:0, PlayTV Mais
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
+#EXTINF:0, Esportes Brasília HD
+https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
+#EXTINF:0, RS News Sports
+https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
+#EXTINF:0, Futura - Canal FDR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:0, Master TV
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:0, Rede Mais Família HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
+#EXTINF:0, Sesc TV HD
+https://cloudflare.cdn.spalla.io/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVlZGUxLWMyM2MtNzA3OC04ZjJhLTI1Zjk4MmE5ZmM5MS8iLCJ1aWQiOiI2N2M4YjkzMi01ODUyLTQ2ZDEtOTE1My1mZjBmYTU1MGE0MDQiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc1Njc5NDg1NywiaWF0IjoxNzU2Nzk0ODU3LCJleHAiOjE3NTY4ODEyNTcsImp0aSI6IjY3YzhiOTMyLTU4NTItNDZkMS05MTUzLWZmMGZhNTUwYTQwNCIsImlzcyI6IlNwYWxsYSJ9.fQbKDdajR8RFyCO_jXwZYQWnxGc2uEfSe1y305C964k&uid=67c8b932-5852-46d1-9153-ff0fa550a404&magica=sim
+#EXTINF:0, Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:0, TV A Critica - TV Cristal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://tv03.zas.media:1936/tvcristalto/tvcristalto/playlist.m3u8
+#EXTINF:0, Canal 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_0ad632a5-72a0-4504-8791-df142f1d39b7.m3u8
+#EXTINF:0, Ideal TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://vod-adaptive-ak.vimeocdn.com/exp=1756364153~acl=%2F89399e1b-6fa9-49e4-84fa-e2a0e7596b9b%2F%2A~hmac=2e503b9ca58765981ef3ae7005e3bac2baf81d1ef30683778c1e34f95a51a7e3/89399e1b-6fa9-49e4-84fa-e2a0e7596b9b/v2/range/prot/cmFuZ2U9MzM3MTY3NC00NDQxNDQy/avf/406bdc15-46f7-4614-9319-b18e190127dd.mp4?pathsig=8c953e4f~A4-MWec5nl5z2QV5lO-kkEmpZ6Wz8U5YrywOdb2mNTQ&r=dXMtd2VzdDE%3D&range=3371674-4441442
+#EXTINF:0, CNT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cloudflare.cdn.spalla.io/live/9ff3c72d-cecc-4df2-96e0-8ff07e08d887/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzlmZjNjNzJkLWNlY2MtNGRmMi05NmUwLThmZjA3ZTA4ZDg4Ny8iLCJ1aWQiOiI2N2M4YjkzMi01ODUyLTQ2ZDEtOTE1My1mZjBmYTU1MGE0MDQiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc1Njc5NDY3OSwiaWF0IjoxNzU2Nzk0Njc5LCJleHAiOjE3NTY4ODEwNzksImp0aSI6IjY3YzhiOTMyLTU4NTItNDZkMS05MTUzLWZmMGZhNTUwYTQwNCIsImlzcyI6IlNwYWxsYSJ9.L60uoH_JlHRuwSi4L5ovH3DCDW6POdX9uZ04AuBdPnQ&uid=67c8b932-5852-46d1-9153-ff0fa550a404&magica=sim
+#EXTINF:0, TV Meio
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:0, Rede UTV 
+https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
+#EXTINF:0, UMA TV
+https://acesso.ecast.site:3011/live/umatvlive.m3u8
+#EXTINF:0, Reviva TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/chunklist_w1951752947.m3u8
+#EXTINF:0, Vivax TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+#EXTINF:0, BSTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
+#EXTINF:0, Adesso TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+#EXTINF:0, Grjngo HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:0, Rede NGT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:0, MiTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:0, RETRO CARTOON SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+#EXTINF:0, Jetix Web
+https://s1.tvr.ovh/jetix/jetix/playlist.m3u8
+#EXTINF:0, Gospel Cartoon SD
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:0, F. Kids Network HD
+https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
+#EXTINF:0, Tooncast
+http://vipketseyket.top:8080/VIP017741743173529373/aacb05f76c36/4917
+#EXTINF:0,TV Max RIO
+https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/chunklist_w777565696.m3u8
+#EXTINF:0,Rede União HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://pushapp.uniaoplay.com.br/hls/stream.m3u8
+#EXTINF:0, Top TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
+#EXTINF:0, Interativa TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video09.logicahost.com.br/interativafm/interativafm/playlist.m3u8
+#EXTINF:0, GLN TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
+#EXTINF:0, Multi Canais
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:0, Classique TV - Faroeste
+https://stmv2.painelvideocast.com.br/classiquew/classiquew/playlist.m3u8
+#EXTINF:0, Classique TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:0, Feed 1 - Soul TV
+https://video01.soultv.com.br/soultv/soultv/chunklist_w1992219024.m3u8
+#EXTINF:0, Feed 2 - Pluto TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:0, Teste 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8
+#EXTINF:0, TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:0, Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:0, Rede Estação HD
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+#EXTINF:0, Rede Século 21 HD
+https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8
+#EXTINF:0, Terraviva HD
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:0, Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:0, Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:0, AgroBrasil TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://live.agrobrasiltv.com.br/memfs/0f1f8f3d-96cb-4792-babe-c2169f30a577.m3u8
+#EXTINF:0, Loading Web
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:0, Otaku Sign TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:0, Canal Start HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv.webtvninjas.com.br/start/start/playlist.m3u8
+#EXTINF:0, Polidoro TV
+https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:0, Locomotion SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:0, Kpop TV Play
+https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
+#EXTINF:0, Xtreme TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
+#EXTINF:0, Clone TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv7.voxtvhd.com.br/clouding/clouding/playlist.m3u8
+#EXTINF:0, Kanade TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://backend.energeek.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB
+#EXTINF:0, PoopTV
+https://stream.ichibantv.com:3522/hybrid/play.m3u8
+#EXTINF:0, Amazon Sat HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:0, Demais TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://Stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:0, TV Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:0, Rede Mundo TV HD
+https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
+#EXTINF:0, AWTV HD
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:0, Caravana Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+#EXTINF:0, Astral TV
+https://isaocorp.cloudecast.com/astraltv/index.fmp4.m3u8
+#EXTINF:0, TV NBT
+https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
+#EXTINF:0, BR8TV
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
+#EXTINF:0, Ypê TV
+https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
+#EXTINF:0, TV Gazin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://caikron.com.br:19360/floripa/canal1.m3u8
+#EXTINF:0, Tenda TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
+#EXTINF:0,Nihon Web TV
+https://stream.nihonwebtv.com:3778/stream/play.m3u8
+#EXTINF:0,CONECT X
+https://video10.logicahost.com.br/jrtv/jrtv/playlist.m3u8
+#EXTINF:0,TV Metrópolis HD
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w174397906.m3u8
+#EXTINF:0, RCTV Brasil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://tv03.zas.media:1936/mbc/mbc/playlist.m3u8
+#EXTINF:0, Canal Teste 5
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
+#EXTINF:0,TV Câmara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:0, TV Assembleia de Minas Gerais
+https://streaming.almg.gov.br/live/tvalmg.m3u8
+#EXTINF:0,TV Assembléia Ceará
+https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
+#EXTINF:0,Tv Assembléia MT HD
+https://streaming.al.mt.gov.br/test/index.m3u8
+#EXTINF:0, Canal Saúde 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+#EXTINF:0, Canal Libras
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+#EXTINF:0, TV Comunitária HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:0, Canal Gov HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+#EXTINF:0,TV Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:0, Rede Cultura HD
+https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:0, TV Brasil Central HD
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+#EXTINF:78, TV Nova Nordeste HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://acesso.ecast.site:3675/live/novatvlive.m3u8
+#EXTINF:0, TV Nova Educação HD
+https://live.comets.com.br/tvnovanordeste_222/tracks-v1a1/mono.m3u8
+#EXTINF:0, Record News SC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://caikron.com.br:19360/floripa/floripa.m3u8
+#EXTINF:0, Band WEB HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+#EXTINF:0,RedeTV! Espirito Santo
+https://acesso.ecast.site:3186/live/esflixlive.m3u8
+#EXTINF:0, BA: TV Aratu HD
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:0,GO: TV Sucesso
+https://live-stream.gsnoticias.net.br/live/live-goiania_720.flv
+#EXTINF:0, BA: CNT Salvador HD
+https://cloudflare.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxNDcxODU2MCwiaWF0IjoxNzE0MTEzNzYwLCJpZCI6IjAxODk3ZjkzLTExZWEtNzEwOS1iMGU1LTk1ZTQ4NDU2YmE4MCIsIm5iZiI6MTcxNDExMTk2MCwicmF1IjpbXSwidWlkIjoiMDE4OTdmOTMtMTFlYS03MTA5LWIwZTUtOTVlNDg0NTZiYTgwIiwidXJpX3N1YiI6Ii9jMGZiYWIxZC04YWQ2LTRiNmMtYjA1My1iMzBhODliMDIxMTAvIn0.Wx46uX9V0uURXVgU-Pmm5LJwVoc-r8dziAcqgyHa1E0&uid=01897f93-11ea-7109-b0e5-95e48456ba80&
+#EXTINF:0, MA: TV Difusora
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+#EXTINF:0, MA: TV Alternativa HD - TV MEIO
+https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w233023639.m3u8
+#EXTINF:0, MG: TV Paranaiba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://app.paranaibaplay.com.br/mobile/tv/index.m3u8
+#EXTINF:0, MT: TV Amplitude Juína 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:0, MT: TV BRASIL OESTE HD
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:0, MT: TV Várzea Grande HD
+https://5ad482a77183d.streamlock.net/portalecovalegmail.com/portalecovalegmail.com/playlist.m3u8
+#EXTINF:0, MT: TV Amplitude Juara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:0, PA: TV Gazeta PA HD
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+#EXTINF:0, PA: SBT/Bem TV
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w966754397.m3u8
+#EXTINF:0, PA: TV Guajará
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w29213761.m3u8
+#EXTINF:0, PA: TV Manajoara HD
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:0, PA: Rede Meio Norte -  TV One HD
+https://video02.logicahost.com.br/tvone/tvone/chunklist_w2006341608.m3u8
+#EXTINF:0, PB: TV Arapuan HD
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:0,PE: TV Jornal Interior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://ythls.armelin.one/channel/UCQD_Fq8NZXbHz9LI8Fa1Q9A.m3u8
+#EXTINF:0,PE: TV Jornal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://d3rhmbr9yq9ljg.cloudfront.net/out/v1/4dab2f11ddef44f1ad6e39df6f31d67b/index.mpd
+#EXTINF:0, PE: TV Universitária Recife HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+http://150.161.93.220/hls/index.m3u8
+#EXTINF:0, PI: TV Antena 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/playlist.m3u8
+#EXTINF:0,PI: TV Cidade Verde
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1098979875.m3u8
+#EXTINF:0,PI: TV Cidade Verde Picos
+https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8
+#EXTINF:0, PI: TV O Dia HD
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1859406571.m3u8
+#EXTINF:0, PR: CNT Paraná HD
+https://cloudflare.cdn.spalla.io/live/ee4d3ab8-a162-42d8-a4d0-e4ae03f9224a/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxNDcxODQ3OSwiaWF0IjoxNzE0MTEzNjc5LCJpZCI6IjAxODk3ZjkzLTExZWEtNzEwOS1iMGU1LTk1ZTQ4NDU2YmE4MCIsIm5iZiI6MTcxNDExMTg3OSwicmF1IjpbXSwidWlkIjoiMDE4OTdmOTMtMTFlYS03MTA5LWIwZTUtOTVlNDg0NTZiYTgwIiwidXJpX3N1YiI6Ii9lZTRkM2FiOC1hMTYyLTQyZDgtYTRkMC1lNGFlMDNmOTIyNGEvIn0.w6iXCjvr-3QeP2y93INz6JjuOGjU1eUENn5TKsyFoPI&uid=01897f93-11ea-7109-b0e5-95e48456ba80&
+#EXTINF:0,PR: Rede Massa HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://d10tspkqgju994.cloudfront.net/out/v1/7d01acad7c474d559689a421c90168db/index.mpd
+#EXTINF:0, PR: TV Tarobá
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-8389/LVW8389_Z2OndyxPW6/chunklist.m3u8
+#EXTINF:0, RJ: TV Cidade HD - Canal RBTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stream.ichibantv.com:3874/hybrid/play.m3u8
+#EXTINF:0, RN: TV Tropical HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8
+#EXTINF:0,RN: TV União de Natal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
+#EXTINF:0, RN: TV Futuro HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:0, RO: Sic TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?token=1488818561245878300
+#EXTINF:0, RO: TV do Povo - Rede Meio Norte 
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:0, RS: TVE
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0, RS: TV Pampa HD
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:0, SC: NDTV Criciúma 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://caikron.com.br:19360/floripa/floripa.m3u8
+#EXTINF:0, SC: RBA TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://tv02.zas.media:1936/rbatv/rbatv/chunklist_w1775733882.m3u8
+#EXTINF:0, SP: SBT Interior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:0, SP: Rede Metrópole - Rede Meio Norte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://acesso.ecast.site:3456/stream/play.m3u8
+#EXTINF:0, Rede Gospel HD 
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:0, Boas Novas Belém
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8
+#EXTINF:0, Canção Nova Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/chunklist_w83457119.m3u8
+#EXTINF:0, TVCI HD
+https://5e837408ea907.streamlock.net:1936/tvci/tvci/playlist.m3u8
+#EXTINF:0, Vitrine Esportiva
+https://cdn.jmvstream.com/w/AVJ-12930/playlist/playlist.m3u8
+#EXTINF:0, RS News Sports 2
+https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
+#EXTINF:0, RS News Sports 3
+https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/playlist.m3u8
+#EXTINF:0, RS News Sports 4
+https://59f1cbe63db89.streamlock.net:1443/rsnews04/_definst_/rsnews04/playlist.m3u8
+#EXTINF:0, RS News Sports 5
+https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/playlist.m3u8
+#EXTINF:0, Paulistão
+https://ythls.armelin.one/channel/UCaf4uhI8ItLyM_6kZ5I5Zdw.m3u8
+#EXTINF:0, Futebol Paulista
+https://ythls.armelin.one/channel/UCBFcL3nMWFcNnoWOEtacp1w.m3u8
+#EXTINF:0, CazéTV
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+#EXTINF:0, Canal GOAT
+https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
+#EXTINF:0, TV FPF
+https://ythls.armelin.one/channel/UCf32_L5DB4JHsLhmqpdw3jw.m3u8
+#EXTINF:0, Red Bull TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0, SIC Internacional
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:0, RTP Internacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+#EXTINF:0, TVE 24h
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_576.m3u8
+#EXTINF:0, Faro TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_3.m3u8
+#EXTINF:0, Canal Once HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:0, DW HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
+#EXTINF:0, Freedom HD
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:0, RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+#EXTINF:0, NHK WORLD HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
+#EXTINF:0,Rádio Jornal Caruaru 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://player-ne10-radiojornal-caruaru-audio-web.stream.uol.com.br/live/radiojornalcaruaruaudio.m3u8
+#EXTINF:0, Mix Belém HD
+https://streaming03.zas.media:1936/mixbelem/mixbelem/playlist.m3u8
+#EXTINF:0, Rádio Cultura do Nordeste
+https://ythls.armelin.one/channel/UClo4dVEnSq8sU7mY9YbsyJw.m3u8
+#EXTINF:0,Rádio Tupi FM
+https://ythls.armelin.one/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
+#EXTINF:0,Rádio Itatiaia
+https://ythls.armelin.one/channel/UC9T0ZAarQHL4cJGFzORVsFg.m3u8
+#EXTINF:0,Rádio Clube Fortaleza AM
+https://ythls.armelin.one/channel/UC5DzzKYARkStu98sWyCI6zg.m3u8
+#EXTINF:0,Rádio Transamérica Esportes
+https://ythls.armelin.one/channel/UC7COFHIM1-Osm9Sm0qIz-xQ.m3u8
+#EXTINF:0, Super Manajoara HD
+https://tv02.zas.media:1936/supermarajoara/supermarajoara/chunklist_w1514293823.m3u8
+#EXTINF:0, Rede Clube FM 
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
+#EXTINF:0, JC FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://d1rkdnnqmg7q8z.cloudfront.net/out/v1/e6bb851f89aa42bf8fff9eb480ba667d/index.mpd
+#EXTINF:0, Rádio Olinda FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://5a57bda70564a.streamlock.net/radioolinda/radioolinda.sdp/chunklist_w1548909010.m3u8
+#EXTINF:0, Rádio Cidade FM
+https://video01.kshost.com.br:4443/fabio2861/fabio2861/playlist.m3u8
+#EXTINF:0, Rádio Clube Ararense
+https://virtues.es:1936/clubeararense/clubeararense/chunklist_w1257888935.m3u8
+#EXTINF:0, FM O Dia Rio HD
+https://cdn.livespanel.com/live/fmodia/playlist.m3u8
+#EXTINF:0, JK FM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8
+#EXTINF:0, Catve FM HD
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+#EXTINF:0, Antena 1 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://21qcxjbzwr.singularcdn.net.br/antena1/ngrp:live_all/playlist.m3u8
+#EXTINF:0,Rádio Massa FM
+https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
+#EXTINF:0, Rádio Sociedade
+https://painel.sintonizar.tv.br:1936/sociedadevideo/sociedadevideo/chunklist_w232524436.m3u8
+#EXTINF:0,Radio Cidade Verde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv1.transmissaodigital.com/cidadeverde2/cidadeverde2/chunklist_w890656368.m3u8
+#EXTINF:0,Radio CV Mais
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://59e4b6c1beddc.streamlock.net/cidadeverde2021/cidadeverde2021/chunklist_w1702912365.m3u8
+#EXTINF:0, Rádio Minas FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-8064/LVW8064_mRt4RUB3CL/chunklist.m3u8
+#EXTINF:0, Rádio Sertaneja
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-8063/LVW8063_wasjsoUgqw/chunklist.m3u8
+#EXTINF:0, Rádio Positiva FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video02.logicahost.com.br/positivafm/positivafm/playlist.m3u8
+#EXTINF:0, Rádio Cultura Pará
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w1230197756.m3u8
+#EXTINF:0, CBN São Paulo HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE3NDQ2MzMwMjQsImlhdCI6MTc0NDU0NjYyNCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiIiLCJwYXRoIjoiL251L2YoYk1pbj0zMTM5ODQsZHZyPTEyMCkvY2Juc3AyNGhhL3BsYXlsaXN0Lm0zdTgifQ.O3uHI1R1xivEm_Y6n2wyISrR-j5bLTn_HKgRGYctl1P8lhNdslPBdrsA29XowRgzbeqqdekhNmgi0SuyKDEefpXI7XZGKghYWjKyKqVeyGM8VgKGpk2mOYEirQL5QzFWbAGlvBFWbgosCeLw7-qeduPSpwnTL-PnQei2x6sNgc6wcrWeR8Fz2Kcpw_YAjG05dby8bC7BdDgtPPa__H6ZdIN1IWz5hnX8MSPPWWTNcIcYtfUH8suDhucpM12Y1rwdUw72hBB6WLnelq0A9C7ox1Ky1DJN24jQaW_qyKYvxDFJMXAO3mWJEmyoW9pab_tPnA-bVPz-Qj_tcSM27p9HUA/nu/f(bMin=313984,dvr=120)/cbnsp24ha/playlist.m3u8
+#EXTINF:0, CBN Recife HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://video05.logicahost.com.br/tvasabranca/tvasabranca/playlist.m3u8
+#EXTINF:0, CBN Campinas HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://streaming.empresaspioneiras.com.br/cbncampinas/stream.m3u8
+#EXTINF:0,Rádio Aparecida
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-10637/LVW10637_hPQesYooeL/chunklist.m3u8
+#EXTINF:0,Band FM Sorocaba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn-mirtes787.ciclano.io:1443/mirtes787/mirtes787/playlist.m3u8
+#EXTINF:0,Band FM Pouso Alegre
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://stmv1.transmissaodigital.com/bandpousoalegre/bandpousoalegre/playlist.m3u8
+#EXTINF:0,Band FM Campinas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://srv1.zcast.com.br/bandfmcampinas/bandfmcampinas/playlist.m3u8
+#EXTINF:0,Nativa Campinas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://srv1.zcast.com.br/nativafmcampinas/nativafmcampinas/playlist.m3u8
+#EXTINF:0,Jovem Pam FM Digital
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://d233lioynu5inr.cloudfront.net/out/v1/c45e4e4af26a4d59b5d166c2a9ac2bbc/index.m3u8
+#EXTINF:0,Rádio Cultura Brasil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://player-culturaam.stream.uol.com.br/live/culturaam.m3u8
+#EXTINF:0,89 FM A Rádio Rock
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8igtlYU8dfBa92nZpm-VlojN3kDIBruobNma11w-Q_V)/dm/3/x7wjrui/s/live-1.m3u8#cell=lnyc
+#EXTINF:0,Rádio Clube Recife AM
+https://radio.saopaulo01.com.br/8018/stream?1625627194922
+#EXTINF:0,Rádio Metró
+https://cast.animu.com.br:5010/
+#EXTINF:0, Rádio JHero
+https:%5C%5Cstm1.radiojhero.com:18008%5C
+#EXTINF:0,Rádio Tupi FM
+https://8923.brasilstream.com.br/stream?nocache=32711111
+#EXTINF:0,Rádio Clube Fortaleza AM
+https://r10.ciclano.io:15075/stream?1651714823719
+#EXTINF:0,AM" radio="true" tvg-logo="https://www.guiademidia.com.br/imagens/radios/pe/radio-universitaria-fm-recife.png" group-title="Canais de Áudio"  - Rádio Universitaria Recife FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+http://150.161.93.221/hls/stream/index.m3u8
+#EXTINF:0,Rádio Rural FM
+http://cast2.youngtech.radio.br:8120/radio
+#EXTINF:0,Rádio MEC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://radiomec-stream.ebc.com.br/ebc/radiomec/chunks.m3u8
+#EXTINF:0,Rádio Nacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://radionacionalamazonia-stream.ebc.com.br/ebc/radionacionalamazonia/chunks.m3u8
+#EXTINF:0,PR: Rede Massa HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://d10tspkqgju994.cloudfront.net/out/v1/7d01acad7c474d559689a421c90168db/index.mpd
+#EXTINF:0, Tooncast SD
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
